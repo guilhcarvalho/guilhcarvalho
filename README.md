@@ -1,5 +1,5 @@
-  Hello Everyone, Welcome to my GitHub Profile!
+👋 Hi there, I'm Guilherme Carvalho
 
-- 🔧 I’m currently working on Maintenance DJI Agriculture Drones. 🛸
-- ✍️ I’m currently learning Python Language and studying Systems Analysis and Development at a technology college. 👾🤖
-- 🤠 Fun fact: Currently addicted to Warhammer 40k. 💀
+🎓 I'm a Systems Analysis and Development student, currently specializing in Python.
+💻 I'm interested in backend development, automation, AI, and data.
+🚀 Always learning and improving my hard and soft skills, while staying open to new opportunities.
