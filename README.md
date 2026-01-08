@@ -1,5 +1,1 @@
-👋 Hi there, I'm Guilherme Carvalho
-
-🎓 I'm a Systems Analysis and Development student, currently specializing in Python.
-💻 I'm interested in backend development, automation, AI, and data.
-🚀 Always learning and improving my hard and soft skills, while staying open to new opportunities.
+Desenvolvedor Backend em formação com foco em Python. Tenho aplicado tecnologias como Flask, SQLAlchemy, PostgreSQL, Git e APIs RESTful em estudos e projetos pessoais. Atualmente curso Análise e Desenvolvimento de Sistemas pela Anhanguera e busco evoluir continuamente minhas habilidades técnicas e pessoais.
