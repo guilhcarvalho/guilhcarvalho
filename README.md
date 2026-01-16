@@ -2,4 +2,6 @@
 
 **`Backend Developer`**
 
-Desenvolvedor Backend em formação com foco em Python. Tenho aplicado tecnologias como Flask, SQLAlchemy, PostgreSQL, Git e APIs RESTful em estudos e projetos pessoais. Atualmente curso Análise e Desenvolvimento de Sistemas pela Anhanguera e busco evoluir continuamente minhas habilidades técnicas e pessoais.
+Desenvolvedor Backend com foco em Python, aplicando tecnologias como Flask, ORM com SQLAlchemy, SQLite, PostgreSQL, Docker, Git e APIs RESTful em estudos e projetos pessoais.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas pela Anhanguera, com objetivo no aprimoramento contínuo de habilidades técnicas e boas práticas de desenvolvimento.
