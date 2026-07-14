@@ -13,7 +13,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** pela Anhanguera, com
 ## PROJETOS
 
 - **ERP web com Django** ( https://github.com/guilhcarvalho/admin-semi-joias.git )
-- **Flask API – Controle de Estoque ( https://github.com/guilhcarvalho/flask-api-stock.git 
+- **Flask API – Controle de Estoque** ( https://github.com/guilhcarvalho/flask-api-stock.git 
 
 <br />
 <br />
