@@ -12,6 +12,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** pela Anhanguera, com
 <br />
 ## PROJETOS
 
+- **API Bancária com FastAPI** ( https://github.com/guilhcarvalho/api-bank-fastapi.git )
 - **ERP web com Django** ( https://github.com/guilhcarvalho/admin-semi-joias.git )
 - **Flask API – Controle de Estoque** ( https://github.com/guilhcarvalho/flask-api-stock.git )
 
