@@ -4,9 +4,9 @@
 
 <br />
 
-Desenvolvedor Backend com foco em **Python**, aplicando tecnologias como **Flask**, **Django**, **APIs RESTful**, **ORM**, **SQLAlchemy**, **Docker**, **Git** em estudos e projetos pessoais.
+Desenvolvedor com foco em Python, Django, FastAPI e Flask. Experiência prática no desenvolvimento de APIs RESTful, integração com bancos de dados PostgreSQL, testes automatizados com PyTest e conteinerização utilizando Docker.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** pela Anhanguera, com objetivo no aprimoramento contínuo de habilidades técnicas e boas práticas de desenvolvimento.
+Busco contribuir no desenvolvimento de aplicações escaláveis, mantendo boas práticas de código, arquitetura e qualidade de software com olhar crítico e foco no produto
 <br />
 <br />
 <br />
