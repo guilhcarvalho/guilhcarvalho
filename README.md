@@ -12,6 +12,7 @@ Sou falante nativo de português brasileiro e tenho inglês de nível B1, idioma
 
 <br />
 <br />
+
 ## PROJETOS
 
 - **Carol SemiJoias** ( https://github.com/guilhcarvalho/admin-semi-joias.git )
