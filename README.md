@@ -4,17 +4,18 @@
 
 <br />
 
-Desenvolvedor com foco em Python, Django, FastAPI e Flask. Experiência prática no desenvolvimento de APIs RESTful, integração com bancos de dados PostgreSQL, testes automatizados com PyTest e conteinerização utilizando Docker.
-
-Busco contribuir no desenvolvimento de aplicações escaláveis, mantendo boas práticas de código, arquitetura e qualidade de software com olhar crítico e foco no produto
+Sou desenvolvedor web com foco em back-end. Estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera e tenho experiência prática com aplicações full-stack em Python e C#/.NET.<br />
 <br />
+Estou sempre em busca de novas soluções, fundamentos, arquiteturas e boas práticas do mercado de desenvolvimento de software.<br />
+<br />
+Sou falante nativo de português brasileiro e tenho inglês de nível B1, idioma que continuo aprimorando.<br />
+
 <br />
 <br />
 ## PROJETOS
 
-- **API Bancária com FastAPI** ( https://github.com/guilhcarvalho/api-bank-fastapi.git )
-- **ERP web com Django** ( https://github.com/guilhcarvalho/admin-semi-joias.git )
-- **Flask API – Controle de Estoque** ( https://github.com/guilhcarvalho/flask-api-stock.git )
+- **Carol SemiJoias** ( https://github.com/guilhcarvalho/admin-semi-joias.git )
+
 
 <br />
 <br />
